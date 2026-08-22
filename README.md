@@ -18,7 +18,11 @@
 
 ---
 
+<div align="center">
+
 ## Sobre mim
+
+</div>
 
 Sou desenvolvedor com foco em **Java e desenvolvimento backend**.
 
@@ -28,7 +32,11 @@ Gosto de aprender construindo projetos, resolver problemas e transformar conheci
 
 ---
 
+<div align="center">
+
 ## Tecnologias
+
+</div>
 
 <div align="center">
 
@@ -50,11 +58,14 @@ Gosto de aprender construindo projetos, resolver problemas e transformar conheci
 </div>
 
 ---
+<div align="center">
 
 ## Atualmente estudando
 
-<div align="center">
+</div>
 
+<div align="center">
+  
 | Área | Tecnologias |
 | :--- | :--- |
 | **Linguagem** | Java |
