@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/](https://www.linkedin.com/in/jo%C3%A3o-gabriel-08934739a/">
+<a href="www.linkedin.com/in/joão-gabriel-08934739a">
 <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
