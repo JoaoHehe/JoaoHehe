@@ -4,13 +4,15 @@
 
 `Desenvolvedor Java • Backend • Ciência da Computação`
 
-</div>
+<br>
 
----
+<a href="https://github.com/JoaoHehe">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-<div align="center">
-
-<img src="./assets/joaohege-terminal.png" width="95%">
+<a href="https://www.linkedin.com/](https://www.linkedin.com/in/jo%C3%A3o-gabriel-08934739a/">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 </div>
 
@@ -20,9 +22,9 @@
 
 Sou desenvolvedor com foco em **Java e desenvolvimento backend**.
 
-Comecei a programar ainda jovem e atualmente estou construindo uma base sólida em **engenharia de software**, estudando principalmente Java, Spring Boot, SQL, APIs e bancos de dados.
+Comecei a programar ainda jovem e atualmente estou focado em construir uma base sólida em **engenharia de software**, estudando principalmente Java, Spring Boot, SQL, APIs e bancos de dados.
 
-Gosto de aprender colocando a mão no código, criando projetos e transformando conhecimento em aplicações reais.
+Gosto de aprender construindo projetos, resolver problemas e transformar conhecimento em aplicações reais.
 
 ---
 
@@ -51,26 +53,22 @@ Gosto de aprender colocando a mão no código, criando projetos e transformando 
 
 ## Atualmente estudando
 
-```text
-JAVA
- ├── Collections
- ├── Generics
- ├── Orientação a Objetos
- └── Boas práticas
+<div align="center">
 
-SPRING BOOT
- ├── Spring Web
- ├── Spring Data JPA
- ├── Injeção de Dependência
- └── Mockito
+| Área | Tecnologias |
+| :--- | :--- |
+| **Linguagem** | Java |
+| **Backend** | Spring Boot, Spring Web, Spring Data JPA |
+| **Banco de dados** | SQL, MariaDB, MySQL |
+| **ORM** | JPA / Hibernate |
+| **Testes** | Mockito |
+| **DevOps** | Docker, AWS |
+| **Frontend** | HTML, CSS, JavaScript, Angular, React |
 
-BANCO DE DADOS
- ├── SQL
- ├── MariaDB
- ├── MySQL
- └── JPA / Hibernate
+---
 
-INFRAESTRUTURA
- ├── Git
- ├── Docker
- └── AWS
+<div align="center">
+
+`Construindo. Aprendendo. Evoluindo.`
+
+</div>
