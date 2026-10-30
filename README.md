@@ -1,83 +1,78 @@
+ <div align="center">
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=17191D&height=190&section=header&text=JOAOHEHE&fontSize=52&fontColor=D9D3BD&fontAlignY=40&desc=DESENVOLVIMENTO%20%2F%20TECNOLOGIA%20%2F%20EXPLORACAO&descSize=13&descColor=D28A4E&descAlignY=65" width="100%" />
 
-# J O A O H E H E
+<br/>
 
-INDEPENDENT SOFTWARE DEVELOPER · EARTH / SOUTH AMERICA
+**Desenvolvedor com foco em Java e desenvolvimento backend.**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=17191D&height=3&section=header" width="100%" />
+Gosto de construir coisas, experimentar ideias e transformar problemas em software.
 
-**PERSONAL DATABASE // ARCHIVE Nº 001**
+<br/>
 
-*Building things, exploring ideas and leaving something behind.*
-
-[ GITHUB ] · [ PROJECT ARCHIVE ] · [ TRANSMISSIONS ]
+`PERNAMBUCO, BRASIL`　·　`SINAL ATIVO`　·　`DESDE 2026`
 
 </div>
 
 ---
 
-### 01 / PERSONNEL FILE
+### Sobre mim
 
-IDENTIFICATION  : JOAO GABRIEL
-LOCATION        : PERNAMBUCO, BRAZIL
-OCCUPATION      : SOFTWARE DEVELOPER
-SPECIALIZATION  : BACKEND DEVELOPMENT
-CURRENT STATUS  : BUILDING & LEARNING
+Sou desenvolvedor de software e atualmente estou aprofundando meus conhecimentos em **Java, Spring Boot e desenvolvimento backend**.
 
+Também gosto de explorar outras áreas, criar projetos independentes e experimentar novas tecnologias.
 
-I'm a developer interested in building useful software, exploring new technologies and understanding how things work under the hood.
+Acredito que aprender também é colocar a mão na massa.
 
-Currently focused on **Java, Spring Boot and software development**, while experimenting with independent projects.
+### Projetos selecionados
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 02 / ACTIVE TRANSMISSIONS
+<h3>01. Tapefy</h3>
 
-| PROJECT | DESCRIPTION | STATUS |
-|:--|:--|:--|
-| [TAPEFY](https://github.com/JoaoHehe/Tapefy) | An independent desktop music player | IN DEVELOPMENT |
-| [GRUPO CERNE](https://github.com/JoaoHehe/grupo-cerne) | A news portal and publishing platform | PROJECT |
-| PORTAL CIDADÃO | A civic technology platform | EXPERIMENTAL |
+Um player de música para desktop, inspirado na cultura das fitas, pixel art e estética indie.
 
----
+**Tecnologias:** Electron · React · TypeScript
 
-### 03 / TECHNICAL EQUIPMENT
+<a href="https://github.com/JoaoHehe/Tapefy">↗ Acessar projeto</a>
 
-**LANGUAGES**
-<br/>
-![Java](https://img.shields.io/badge/Java-17191D?style=flat-square&logo=openjdk&logoColor=D9D3BD)
-![TypeScript](https://img.shields.io/badge/TypeScript-17191D?style=flat-square&logo=typescript&logoColor=D9D3BD)
-![JavaScript](https://img.shields.io/badge/JavaScript-17191D?style=flat-square&logo=javascript&logoColor=D9D3BD)
+</td>
+<td width="50%" valign="top">
 
-**FRAMEWORKS & TOOLS**
-<br/>
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-17191D?style=flat-square&logo=springboot&logoColor=D9D3BD)
-![React](https://img.shields.io/badge/React-17191D?style=flat-square&logo=react&logoColor=D9D3BD)
-![Electron](https://img.shields.io/badge/Electron-17191D?style=flat-square&logo=electron&logoColor=D9D3BD)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17191D?style=flat-square&logo=postgresql&logoColor=D9D3BD)
-![Git](https://img.shields.io/badge/Git-17191D?style=flat-square&logo=git&logoColor=D9D3BD)
+<h3>02. Grupo Teatral Cerne</h3>
+
+Portal de notícias com sistema administrativo para publicação e gerenciamento de conteúdo.
+
+**Tecnologias:** Java · Spring Boot · PostgreSQL · Thymeleaf
+
+<a href="https://github.com/JoaoHehe/grupo-cerne">↗ Acessar projeto</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 04 / RESEARCH & DEVELOPMENT
+### Caixa de ferramentas
 
-[01] JAVA ECOSYSTEM
-[02] BACKEND ARCHITECTURE
-[03] DATABASES & API DESIGN
-[04] SOFTWARE ENGINEERING
+**Desenvolvimento**
+
+<img src="https://skillicons.dev/icons?i=java,spring,ts,js,react,electron,html,css" />
+
+**Banco de dados e ferramentas**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,docker,linux" />
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=17191D&height=3&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=17191D&height=2&section=footer" width="100%" />
 
-END OF TRANSMISSION
+`FIM DO REGISTRO`
 
-**SIGNAL RECEIVED // THANK YOU FOR VISITING**
-
-<sub>PERSONAL ARCHIVE · EST. 2026 · EARTH</sub>
+<sub>ARQUIVO PESSOAL Nº 001 — JOAOHEHE</sub>
 
 </div>
-```
