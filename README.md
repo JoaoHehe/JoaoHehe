@@ -18,9 +18,9 @@ Gosto de construir coisas, experimentar ideias e transformar problemas em softwa
 
 ### Sobre mim
 
-Sou desenvolvedor de software e atualmente estou aprofundando meus conhecimentos em **Java, Spring Boot e desenvolvimento backend**.
+Sou desenvolvedor de software e minha stack é: **Java, Spring Boot e desenvolvimento backend**.
 
-Também gosto de explorar outras áreas, criar projetos independentes e experimentar novas tecnologias.
+Também gosto de explorar outras áreas (principalmente robótica), criar projetos independentes e experimentar novas tecnologias.
 
 Acredito que aprender também é colocar a mão na massa.
 
