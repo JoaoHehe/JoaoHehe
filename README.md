@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=17191D&height=190&section=header&text=JOAOHEHE&fontSize=52&fontColor=D9D3BD&fontAlignY=40&desc=DESENVOLVIMENTO%20%2F%20TECNOLOGIA%20%2F%20EXPLORACAO&descSize=13&descColor=D28A4E&descAlignY=65" width="100%" />
+<img src="./assets/banner.png" width="100%" alt="JoaoHehe — Retro Futurist Banner">/>
 
 <br/>
 
