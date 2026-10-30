@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="JoaoHehe — Retro Futurist Banner">/>
+<img src="./assets/banner.png" width="100%" alt="JoaoHehe — Retro Futurist Banner">
 
 <br/>
 
