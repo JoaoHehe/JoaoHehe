@@ -1,9 +1,9 @@
-```markdown
+
 <div align="center">
 
 # J O A O H E H E
 
-`INDEPENDENT SOFTWARE DEVELOPER` · `EARTH / SOUTH AMERICA`
+INDEPENDENT SOFTWARE DEVELOPER · EARTH / SOUTH AMERICA
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=17191D&height=3&section=header" width="100%" />
 
@@ -19,13 +19,12 @@
 
 ### 01 / PERSONNEL FILE
 
-```text
 IDENTIFICATION  : JOAO GABRIEL
 LOCATION        : PERNAMBUCO, BRAZIL
 OCCUPATION      : SOFTWARE DEVELOPER
 SPECIALIZATION  : BACKEND DEVELOPMENT
 CURRENT STATUS  : BUILDING & LEARNING
-```
+
 
 I'm a developer interested in building useful software, exploring new technologies and understanding how things work under the hood.
 
@@ -63,12 +62,10 @@ Currently focused on **Java, Spring Boot and software development**, while exper
 
 ### 04 / RESEARCH & DEVELOPMENT
 
-```text
 [01] JAVA ECOSYSTEM
 [02] BACKEND ARCHITECTURE
 [03] DATABASES & API DESIGN
 [04] SOFTWARE ENGINEERING
-```
 
 ---
 
@@ -76,7 +73,7 @@ Currently focused on **Java, Spring Boot and software development**, while exper
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=17191D&height=3&section=footer" width="100%" />
 
-`END OF TRANSMISSION`
+END OF TRANSMISSION
 
 **SIGNAL RECEIVED // THANK YOU FOR VISITING**
 
