@@ -1,85 +1,86 @@
+```markdown
 <div align="center">
 
-# João Gabriel
+# J O A O H E H E
 
-`Desenvolvedor Java • Backend • Ciência da Computação`
+`INDEPENDENT SOFTWARE DEVELOPER` · `EARTH / SOUTH AMERICA`
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=17191D&height=3&section=header" width="100%" />
 
-<a href="https://github.com/JoaoHehe">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-</a>
+**PERSONAL DATABASE // ARCHIVE Nº 001**
 
-<a href="(https://www.linkedin.com/in/jo%C3%A3o-gabriel-08934739a/?skipRedirect=true)">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+*Building things, exploring ideas and leaving something behind.*
+
+[ GITHUB ] · [ PROJECT ARCHIVE ] · [ TRANSMISSIONS ]
 
 </div>
 
 ---
 
-<div align="center">
+### 01 / PERSONNEL FILE
 
-## Sobre mim
+```text
+IDENTIFICATION  : JOAO GABRIEL
+LOCATION        : PERNAMBUCO, BRAZIL
+OCCUPATION      : SOFTWARE DEVELOPER
+SPECIALIZATION  : BACKEND DEVELOPMENT
+CURRENT STATUS  : BUILDING & LEARNING
+```
 
-</div>
+I'm a developer interested in building useful software, exploring new technologies and understanding how things work under the hood.
 
-Sou desenvolvedor com foco em **Java e desenvolvimento backend**.
+Currently focused on **Java, Spring Boot and software development**, while experimenting with independent projects.
 
-Comecei a programar ainda jovem e atualmente estou focado em construir uma base sólida em **engenharia de software**, estudando principalmente Java, Spring Boot, SQL, APIs e bancos de dados.
+---
 
-Gosto de aprender construindo projetos, resolver problemas e transformar conhecimento em aplicações reais.
+### 02 / ACTIVE TRANSMISSIONS
+
+| PROJECT | DESCRIPTION | STATUS |
+|:--|:--|:--|
+| [TAPEFY](https://github.com/JoaoHehe/Tapefy) | An independent desktop music player | IN DEVELOPMENT |
+| [GRUPO CERNE](https://github.com/JoaoHehe/grupo-cerne) | A news portal and publishing platform | PROJECT |
+| PORTAL CIDADÃO | A civic technology platform | EXPERIMENTAL |
+
+---
+
+### 03 / TECHNICAL EQUIPMENT
+
+**LANGUAGES**
+<br/>
+![Java](https://img.shields.io/badge/Java-17191D?style=flat-square&logo=openjdk&logoColor=D9D3BD)
+![TypeScript](https://img.shields.io/badge/TypeScript-17191D?style=flat-square&logo=typescript&logoColor=D9D3BD)
+![JavaScript](https://img.shields.io/badge/JavaScript-17191D?style=flat-square&logo=javascript&logoColor=D9D3BD)
+
+**FRAMEWORKS & TOOLS**
+<br/>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-17191D?style=flat-square&logo=springboot&logoColor=D9D3BD)
+![React](https://img.shields.io/badge/React-17191D?style=flat-square&logo=react&logoColor=D9D3BD)
+![Electron](https://img.shields.io/badge/Electron-17191D?style=flat-square&logo=electron&logoColor=D9D3BD)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17191D?style=flat-square&logo=postgresql&logoColor=D9D3BD)
+![Git](https://img.shields.io/badge/Git-17191D?style=flat-square&logo=git&logoColor=D9D3BD)
+
+---
+
+### 04 / RESEARCH & DEVELOPMENT
+
+```text
+[01] JAVA ECOSYSTEM
+[02] BACKEND ARCHITECTURE
+[03] DATABASES & API DESIGN
+[04] SOFTWARE ENGINEERING
+```
 
 ---
 
 <div align="center">
 
-## Tecnologias
+<img src="https://capsule-render.vercel.app/api?type=rect&color=17191D&height=3&section=footer" width="100%" />
+
+`END OF TRANSMISSION`
+
+**SIGNAL RECEIVED // THANK YOU FOR VISITING**
+
+<sub>PERSONAL ARCHIVE · EST. 2026 · EARTH</sub>
 
 </div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white">
-
-<br>
-
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white">
-
-</div>
-
----
-<div align="center">
-
-## Atualmente estudando
-
-</div>
-
-<div align="center">
-  
-| Área | Tecnologias |
-| :--- | :--- |
-| **Linguagem** | Java |
-| **Backend** | Spring Boot, Spring Web, Spring Data JPA |
-| **Banco de dados** | SQL, MariaDB, MySQL |
-| **ORM** | JPA / Hibernate |
-| **Testes** | Mockito |
-| **DevOps** | Docker, AWS |
-| **Frontend** | HTML, CSS, JavaScript, Angular, React |
-
----
-
-<div align="center">
-
-`Construindo. Aprendendo. Evoluindo.`
-
-</div>
+```
