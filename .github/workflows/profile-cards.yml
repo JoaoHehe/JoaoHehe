@@ -1,3 +1,4 @@
+
 name: Atualizar estatísticas do perfil
 
 on:
@@ -13,9 +14,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Gerar estatísticas
-        uses: seijikohara/profile-cards-action@v0
+        uses: seijikohara/profile-cards-action@v1
         with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
           username: JoaoHehe
           output-dir: profile
           themes: dark
